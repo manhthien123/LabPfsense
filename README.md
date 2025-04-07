@@ -23,5 +23,9 @@
 #
 # screenshots/: screenshots of setup
 #
-# test/: log ping, traceroute to prove network works
-# 
+# test/: log ping, traceroute to prove network works.
+#
+#
+#
+#
+#
