@@ -25,7 +25,8 @@
 #
 # test/: log ping, traceroute to prove network works.
 #
-#
+# ![image](https://github.com/user-attachments/assets/9be701a0-93b7-4799-83b4-d5c80acd5152)
+
 #
 #
 #
